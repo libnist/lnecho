@@ -26,7 +26,7 @@ impl Config {
     }
 }
 
-/// Runs the main programm
+/// Runs the main program
 /// 
 /// # Example
 /// 
