@@ -3,6 +3,7 @@ name = "lnecho"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-description = "A starter `echo` like command project for me to practice Rust" 
+description = "A starter `echo` like command project for me to practice Rust"
+repository = "https://github.com/libnist/lnecho"
 
 [dependencies]
